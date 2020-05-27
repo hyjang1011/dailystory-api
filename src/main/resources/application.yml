@@ -1,6 +1,6 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://34.83.4.99:16033/example?serverTimezone=UTC&characterEncoding=UTF-8
+    url: jdbc:mysql://34.83.4.99:16033/dailystory?serverTimezone=UTC&characterEncoding=UTF-8
     username: root
     password: neoplus!1
